@@ -4,7 +4,7 @@ Welcome to my **react-learning** repository! This space is dedicated to tracking
 
 ## 🚀 About This Repository
 
-As I build my skills in modern web development, I am using this repository to document my journey step-by-step. Here, you'll find everything from foundational concepts to interactive frontend applications built with JavaScript, React, HTML5, CSS3, and Tailwind CSS. 
+As I build my skills in modern web development, I am using this repository to document my journey step-by-step.
 
 ## 📂 Repository Structure
 
