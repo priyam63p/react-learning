@@ -10,6 +10,6 @@ As I build my skills in modern web development, I am using this repository to do
 
 The code is organized chronologically by lessons to keep the learning process structured:
 
-*   **Lec_1:** Introductory concepts, environment setup, and understanding the virtual DOM.
-*   **Lec_2:** Core React fundamentals, JSX syntax, and component basics.
+*   **Lec_1:** Introduction to React
+*   **Lec_2:** What is Bundler
 
