@@ -1,0 +1,64 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  justify-content: space-between;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.img {
+  position: relative;
+  left: 60px;
+}
+
+.option {
+  padding: 15px;
+}
+
+.but, .pro {
+  background-color: #fff;
+  border: none;
+  height: 30px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.srchbar {
+  width: 400px;
+  height: 25px;
+  position: relative;
+  top: 20px;
+}
+
+.profile {
+  padding-top: 20px;
+}
+
+.middle {
+  background-color: #fbfbc9;
+  justify-content: center;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.card {
+  color: #fff;
+  background-color: #085808;
+}
+
+.fimg {
+  padding-left: 67%;
+}
+
+button {
+  color: #fff;
+  background-color: #ff4500;
+  height: 50px;
+  font-size: 20px;
+}
+/*# sourceMappingURL=Lec_5.3a01df49.css.map */

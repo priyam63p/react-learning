@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  columns: white;
+  background-color: #000;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+.first {
+  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  width: 400px;
+  height: 200px;
+}
+
+button {
+  background-color: orange;
+  gap: 100px;
+  height: 80px;
+  font-size: 20px;
+}
+/*# sourceMappingURL=Lec_6.3a01df49.css.map */

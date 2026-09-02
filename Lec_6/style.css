@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  background-color: black;
+  columns: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.first {
+  background-color: white;
+  height: 200px;
+  width: 400px;
+  text-align: center;
+  border-radius: 10px;
+}
+button {
+  height: 80px;
+  background-color: orange;
+  font-size: 20px;
+  gap: 100px;
+}
