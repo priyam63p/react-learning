@@ -14,4 +14,7 @@ The code is organized chronologically by lessons to keep the learning process st
 *   **Lec_2:** What is Bundler
 *   **Lec_3:** JSX and Basic React Components
 *   **Lec_4:** React Props and Dynamic Components
+*   **Lec_5:** Components in React
+*   **Lec_6:** React Hooks
+
 
