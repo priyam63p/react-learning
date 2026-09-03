@@ -16,5 +16,7 @@ The code is organized chronologically by lessons to keep the learning process st
 *   **Lec_4:** React Props and Dynamic Components
 *   **Lec_5:** Components in React
 *   **Lec_6:** React Hooks
+*   **Lec_7:** useEffect Hook
+*   **Lec_8:** React Closure
 
 
