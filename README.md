@@ -1,4 +1,4 @@
-# React Learning Journey ⚛️
+ # React Learning Journey ⚛️
 
 Welcome to my **react-learning** repository! This space is dedicated to tracking my progress, experiments, and coursework as I dive into frontend development with React.
 
@@ -18,5 +18,7 @@ The code is organized chronologically by lessons to keep the learning process st
 *   **Lec_6:** React Hooks
 *   **Lec_7:** useEffect Hook
 *   **Lec_8:** React Closure
+*   **Lec_9:** Mini Project
+*   **Lec_10:** useMemo,useRef hook
 
 
