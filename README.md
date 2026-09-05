@@ -20,5 +20,7 @@ The code is organized chronologically by lessons to keep the learning process st
 *   **Lec_8:** React Closure
 *   **Lec_9:** Mini Project
 *   **Lec_10:** useMemo,useRef hook
+*   **Lec_11:** state Lifting
+*   **Lec_12:** React Router
 
 
