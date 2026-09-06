@@ -22,5 +22,7 @@ The code is organized chronologically by lessons to keep the learning process st
 *   **Lec_10:** useMemo,useRef hook
 *   **Lec_11:** state Lifting
 *   **Lec_12:** React Router
+*   **Lec_13:** Custom Hooks in React
+*   **Lec_14:** Introduction to Redux
 
 
