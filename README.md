@@ -24,5 +24,8 @@ The code is organized chronologically by lessons to keep the learning process st
 *   **Lec_12:** React Router
 *   **Lec_13:** Custom Hooks in React
 *   **Lec_14:** Introduction to Redux
+*   **Lec_15:** Redux
+*   **Lec_16:** API handling in Redux
+*   **Lec_17:** Virtual DOM in React
 
 
