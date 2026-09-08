@@ -27,5 +27,6 @@ The code is organized chronologically by lessons to keep the learning process st
 *   **Lec_15:** Redux
 *   **Lec_16:** API handling in Redux
 *   **Lec_17:** Virtual DOM in React
+*   **Lec_18:** Mini Project: Voting System
 
 
